@@ -171,7 +171,7 @@ function ganaste(){
     tonbo1.style.display='none';
     const tonbo2=document.getElementById('reiniciar');
     tonbo2.style.display='inline';
-}, 1500);
+}, 10);
 }
 
 function perdiste(){
@@ -187,7 +187,7 @@ function perdiste(){
       const tonbo2=document.getElementById('reiniciar');
       tonbo2.style.display='inline';
 
-  }, 2000);
+  }, 10);
   }
 
 function denuevo(){
